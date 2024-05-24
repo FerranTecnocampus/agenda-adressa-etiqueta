@@ -41,6 +41,7 @@ public class AppAgenda {
                 carrerConctacte, numeroCarrerConctacte, ciutatContacte,
                 codiPostalContacte, paisContacte,
                 etiquetaAdressaContacte);
+        contacte.afegirAdressa(adresssaAdressaContacte);
 
         System.out.println("Adreça contacte afegida amb èxit!!");
         System.out.println("Contacte afegit amb èxit!");
